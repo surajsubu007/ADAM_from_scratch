@@ -1,0 +1,14 @@
+{
+
+  	"learningRate":0.1,
+	"precision":0.001,
+	"xInitial":-1.8,
+	"yInitial":1.5,
+	"xMinimumRange":-3,
+	"yMinimumRange":-3,
+	"xMaximumRange":3,
+	"yMaximumRange":3,
+	"outputPath":"C:/Users/suraj/Desktop/zeus_projects/project_consolidation/IP/output/adam_implementation/plots"
+
+
+}
